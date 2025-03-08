@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { RegisterLoginComponent } from './pages/register-login/register-login.component';
 
 @Component({
   selector: 'app-root',
